@@ -15,8 +15,8 @@ Check if Donald Trump is still famous
 *** Variables ***
 ${URLwelcome}           https://www.google.co.nz
 #${BROWSER}              chrome
-#${BROWSER}              safari
-${BROWSER}              firefox
+${BROWSER}              safari
+#${BROWSER}              firefox
 
 *** Keywords ***
 Go to homepage

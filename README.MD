@@ -8,6 +8,18 @@ We do this by using the *Robot framework* and in particular the
 today"*. If we get *"Donald Trump"* on the first page of results, then he is
 still famous.
 
+## Running
+Method 1
+```
+robot isDonaldTrumpStillFamous.robot
+```
+
+Method 2
+```
+python -m robot isDonaldTrumpStillFamous.robot
+```
+
+
 ## Setup notes
 Within a python virtual environment:
 ```

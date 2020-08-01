@@ -1,0 +1,10 @@
+*~
+bin/
+include/
+lib/
+pyvenv.cfg
+WebDriverManager/
+*.log
+output.xml
+log.html
+report.html

@@ -10,10 +10,10 @@ still famous.
 
 ## Setup notes
 Within a python virtual environment:
-'''
+```
 pip install -r requirements.txt
 webdrivermanager chrome firefox
-'''
+```
 
 The web driver (for chrome and firefox) is installed into the local bin folder.
 
@@ -22,6 +22,7 @@ The web driver (for chrome and firefox) is installed into the local bin folder.
    - Preferences > Advanced > “Show Develop menu in menu bar” has to be enabled, then
    - Develop > “Allow report automation” has to be enabled
 3. Chrome does not need any extra tweaks
+
 
 When running on mac, it will complain about security / untrusted binary etc:
 - Go to Mac > System Preferences > Security & Privacy

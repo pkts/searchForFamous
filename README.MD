@@ -19,6 +19,8 @@ Method 2
 python -m robot isDonaldTrumpStillFamous.robot
 ```
 
+The test results can be found on the console or by opening report.html in a browser.
+
 
 ## Setup notes
 Within a python virtual environment:
